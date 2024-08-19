@@ -1,0 +1,2 @@
+# Robotics-Perception
+Contains notes and assignment solutions for the Robotics Perception MOOC offered by coursera
